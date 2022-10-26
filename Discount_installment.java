@@ -40,7 +40,7 @@ public class Discount_installment {
                 monthly = Math.round(monthly_payment);
                 customerMoney = Math.round(customer_money);
 
-                System.out.println("Face value is $" + customerMoney);
+                System.out.println("Face value is GHC" + customerMoney);
                 System.out.println("The amount to pay every month is $" + monthly);
 
 
